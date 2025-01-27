@@ -1,0 +1,9 @@
+[Details]
+  Icon = "Icon.png"
+  Name = "Page Checker"
+  ID = "CreativeProjects.PageChecker"
+  Version = "0.0.1"
+  Build = 5
+
+[Source]
+  Repo = "github.com/creativeprojects/page-checker"
